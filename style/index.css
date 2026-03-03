@@ -41,3 +41,15 @@ body {
     margin: 50px 20px;
     padding: 30px 50px;
 }
+.div-bott {
+    display: flex;
+    justify-content: center; 
+    align-items: flex-end;
+    margin: 3%;
+}
+.link-button {
+    width: 370px;
+    padding: 10px;
+    border-radius: 15px;
+
+}
