@@ -8,8 +8,7 @@
 body {
     width: 512px;
     border: 2px solid red;
-    background-image: 
-        url('../img/background.png');
+    background-color: rgb(26, 29, 122);
     background-size: cover;
     background-repeat: no-repeat;
     height: fit-content;
@@ -26,12 +25,19 @@ body {
     text-transform: uppercase;
 }
 
+
 .discord-banner {
     width: 100%;
 }
 .dis-pros {
     background-image: url('../img/background.png');
+    background-size: cover;
+    border: 1px;
+    border-radius: 15px;
+    margin: 20px 50px;
+    padding: 20px 50px;
 }
 .cta {
-    padding: 30px 20px;
+    margin: 50px 20px;
+    padding: 30px 50px;
 }
