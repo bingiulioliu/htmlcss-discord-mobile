@@ -7,4 +7,12 @@
 /* mobile first */
 body {
     width: 512px;
+    border: 2px solid red;
+    background-image: url('../img/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: fit-content;
+}
+.discord-banner {
+    width: 100%;
 }
